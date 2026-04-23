@@ -1,18 +1,20 @@
 ---
-title: Simple Blockchain
-date: 2025-07-20
-repo: sammy03f/simpleblockchain
-topics: ["Python", "SHA-256 hashing", "Proof of Work"]
-lead: Lightweight, per-user virtual machines that start as you SSH in.
+title: Walking vs Running Classifier
+date: Jan 2026-
+repo: nayefrehman/walking-running-classifier
+topics: ["Python", "Sci-py", "Data Science/algorithms"]
+lead: Human activity recognition system using accelerometer data
 image: Simple Blockchain.png
 image_rounded: True
 ---
 
-A blockchain built in Python with a focus on clarity and fundamentals. Each block is linked with SHA-256 hashes and mined using a proof of work system where valid hashes must begin with a fixed number of leading zeros. The system supports adding transactions, block validation, and a full chain integrity check.
+Built a structured data management workflow by collecting, validating, and storing multi-source accelerometer data in an organized HDF5 database using Python (Pandas, NumPy). This ensured reliable data entry, version control, and efficient retrieval for analysis.
 
-I wrote utilities to display the chain in a readable way, verify consistency, and dynamically adjust mining difficulty. The project demonstrates the core principles behind Bitcoin and Ethereum immutability, consensus, and tamper detection, without the overhead of a full cryptocurrency stack.
+Performed data cleaning and quality control by applying noise reduction, handling missing values, and segmenting time-series data into standardized windows. This improved data consistency and integrity for downstream processing.
 
-This was a personal project to discover blockchain mechanics, but it doubles as a lightweight educational demo of distributed ledger concepts.
+Conducted statistical analysis and performance monitoring by extracting key metrics such as mean, variance, and range, and evaluating classification accuracy against test data to validate results.
 
-Links: [GitHub](https://github.com/sammy03f/simpleblockchain),
+
+
+Links: [GitHub](https://github.com/nayefrehman/walking-running-classifier),
 

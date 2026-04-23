@@ -47,36 +47,30 @@
 </script>
 
 <Seo
-  title="Samuel Fisher"
-  description="Applied Mathematics Student @ UC Berkeley"
+  title="Naif Rehman – Home"
+  description="Computer Engineering student"
 />
 
 <p
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  Applied Mathematics <span class="g"></span><span class="g"> @ </span>UC Berkeley<span class="g">
+  Computer Engineering <span class="g"></span><span class="g"> @ </span>Queen's University<span class="g">
   <span class="g">.</span>
 </p>
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I'm a junior undergraduate student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
-      with a concentration in Computer Science.
+     I'm a Computer Engineering student at Queen's University, passionate about data science, software development, and applied engineering projects. I love building things that solve real problems and make an impact, whether it's a software tool, a data analysis project, or an engineering design.
     </p>
 
     <p>
-      I'm passionate about where <em>AI</em>, <em> Math</em>, and <em>Entrepreneurship</em> meet,
-      turning bold ideas into real solutions that make life better.
+     Through coursework and personal projects, I’ve developed practical skills in problem-solving, analysis, and building technical solutions. I like to learn by doing. Whether that’s experimenting with new tools, working through challenging concepts, or building projects that push my understanding further.
     </p>
-
     <p>
-      I thrive on merging theory and practice, whether it's using math to unlock new insights, 
-      AI to scale possibilities, or entrepreneurship to bring ideas into the real world.
-    </p>
-    <p>Other interests: Soccer (Real Madrid), Running, Reading (Sci-Fi), Cooking, Chess.
-      Also, I've been playing <a class="link" href="https://www.nytimes.com/games/pips">Pips</a> on NYT Games every day!
+I’m motivated by the opportunity to create value for people and businesses, and I’m always looking for ways to apply what I’m learning in real-world contexts. Currently, I’m seeking opportunities where I can continue to grow, gain hands-on experience, and contribute to meaningful work.</p>
+    <p>Other interests: Basketball (Big Wemby Fan), Running, Reading (Qur'an), video games, badminton.</p>
   </div>
 <!--
   <div class="leading-snug space-y-4">
@@ -159,8 +153,8 @@
   <div class="space-y-5">
     <!-- <p>This is what I look like:</p> -->
     <img
-      alt="Samuel Fisher Headshot"
-      src="/assets/images/profile5.jpg"
+      alt="Naif Rehman Headshot"
+      src="/assets/images/naif.jpg"
     />
   </div>
 </div>

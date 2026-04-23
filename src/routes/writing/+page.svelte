@@ -5,7 +5,7 @@
 </script>
 
 <Seo
-  title="Samuel Fisher – Photo Album"
+  title="NaifR – Photo Album"
   description="Photo Album"
 />
 
