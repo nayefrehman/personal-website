@@ -32,6 +32,7 @@ function markdown() {
 
 const config: UserConfig = {
   plugins: [sveltekit(), pluginYaml() as any, markdown()],
+  base: "/personal-website/", // <-- This line is the key fix
 };
 
 export default config;
