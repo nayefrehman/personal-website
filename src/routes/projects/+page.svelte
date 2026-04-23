@@ -61,7 +61,7 @@
 </script>
 
 <Seo
-  title="Samuel Fisher – Projects"
+  title="Naif Rehman – Projects"
   description="Open-source software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
