@@ -70,7 +70,7 @@
     </p>
     <p>
 I’m motivated by the opportunity to create value for people and businesses, and I’m always looking for ways to apply what I’m learning in real-world contexts. Currently, I’m seeking opportunities where I can continue to grow, gain hands-on experience, and contribute to meaningful work.</p>
-    <p>Other interests: Basketball (Big Wemby Fan), Running, Reading (Qur'an), video games, badminton.</p>
+    <p>Other interests: Basketball (Big Wemby Fan), Running, Reading (Atomic Habits), video games, badminton.</p>
   </div>
 <!--
   <div class="leading-snug space-y-4">
